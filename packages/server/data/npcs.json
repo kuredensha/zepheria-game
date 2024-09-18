@@ -1,0 +1,302 @@
+{
+    "king": {
+        "name": "King",
+        "text": [
+            "Welcome to the kingdom of Zepheria!",
+            "You have travelled long and far, and for that you have my respect."
+        ]
+    },
+
+    "king2": {
+        "name": "King"
+    },
+
+    "villagegirl": {
+        "name": "Wife",
+        "text": ["Please, call me Azaria."]
+    },
+
+    "villagegirl2": {
+        "name": "Village Girl",
+        "text": ["Hope you're having a good day!"]
+    },
+
+    "villagegirl3": {
+        "name": "Another Village Girl",
+        "text": ["How's yous doings?"]
+    },
+
+    "villager": {
+        "name": "Forester",
+        "text": ["Good day to you!"],
+        "store": "forester"
+    },
+
+    "miner": {
+        "name": "Miner",
+        "text": ["Leave me alone, I'm busy pretending to work!"],
+        "store": "miner"
+    },
+
+    "beachnpc": {
+        "name": "Bubba",
+        "text": [
+            "Well, thanks for the help.",
+            "Not really doing much but thanks regardless.",
+            "Though I did hear some crunbling east of here, a cave might've opened up.",
+            "This might just be an urban legend but it is said that an entire",
+            "underworld exists beneath the surface of this beach."
+        ]
+    },
+
+    "agent": {
+        "name": "Secret Agent",
+        "text": [
+            "Hello there, would you be so kind as to assist me?",
+            "It seems I have stumbled upon this strange phenomenon.",
+            "You see, this cave I am heavily guarding appears to be",
+            "exhibiting a warm-hole like situation.",
+            "Regardless, I feel its best to send a stup-",
+            "I mean, brave adventurer in there rather than me."
+        ]
+    },
+
+    "nyan": {
+        "name": "Nyan Cat (Stale Meme)"
+    },
+
+    "rick": {
+        "name": "Rick"
+    },
+
+    "priest": {
+        "name": "Priest"
+    },
+
+    "guard": {
+        "name": "Guard",
+        "text": ["We're seriously busy at the moment."]
+    },
+
+    "guard2": {
+        "name": "Royal Guard",
+        "text": ["Any form of defiance will be met with death."]
+    },
+
+    "scientist": {
+        "name": "Scientist"
+    },
+
+    "desertnpc": {
+        "name": "Billey"
+    },
+
+    "lavanpc": {
+        "name": "Dying Soldier",
+        "text": ["Thank you for all your help. I will perish in your absence."]
+    },
+
+    "boxingman": {
+        "name": "Mike Tyson",
+        "text": ["Woosh."]
+    },
+
+    "vampire": {
+        "name": "Vampire"
+    },
+
+    "doctor": {
+        "name": "Doctor",
+        "text": ["I'm a doctor, not a magician."]
+    },
+
+    "oddeyecat": {
+        "name": "Odd-Eyed Cat"
+    },
+
+    "sorcerer": {
+        "name": "Sorcerer",
+        "store": "sorcerer"
+    },
+
+    "coder": {
+        "name": "Programmer",
+        "text": [
+            "Oh.. This is awkward...",
+            "You may be wondering why I'm here as well.",
+            "Well just letting you know..",
+            "It's definitely not because we're running low on pixel art..",
+            "Regardless.. If you want to get update on the game",
+            "Our X <a target=\"_blank\" href=\"https://twitter.com/ZepheriaP2E\">is available here!</a>"
+        ]
+    },
+
+    "forestnpc": {
+        "name": "Forester"
+    },
+
+    "octocat": {
+        "name": "Octocat",
+        "text": [
+            "Hey there!",
+            "I am the Octocat, the programmer and I",
+            "are very well acquainted.",
+            "In case you did not know, Zepheria is alaways updating.",
+            "You can <a target=\"_blank\" href=\"https://twitter.com/ZepheriaP2E\">check out the update of Zepheria!</a>"
+        ]
+    },
+
+    "soldier": {
+        "name": "Soldier"
+    },
+
+    "fisherman": {
+        "name": "Fisherman",
+        "store": "fishingstore"
+    },
+
+    "octopus": {
+        "name": "Octopus"
+    },
+
+    "mermaidnpc": {
+        "name": "Mermaid"
+    },
+
+    "sponge": {
+        "name": "Sponge"
+    },
+
+    "fairynpc": {
+        "name": "Fairy"
+    },
+
+    "shepherdboy": {
+        "name": "Shepherd Boy"
+    },
+
+    "zombiegf": {
+        "name": "Zombie Girlfriend"
+    },
+
+    "pirategirlnpc": {
+        "name": "Pirate Girl",
+        "text": ["Hi"]
+    },
+
+    "bluebikinigirlnpc": {
+        "name": "Pretzel"
+    },
+
+    "redbikinigirlnpc": {
+        "name": "Flaris"
+    },
+
+    "iamverycoldnpc": {
+        "name": "Babushka",
+        "store": "ingredientsstore"
+    },
+
+    "iceelfnpc": {
+        "name": "Ice Elf"
+    },
+
+    "elfnpc": {
+        "name": "Elf"
+    },
+
+    "snowshepherdboy": {
+        "name": "Sherpa",
+        "text": ["Hello dear adventurer!", "Hope you're enjoying the beautiful sights!"]
+    },
+
+    "angelnpc": {
+        "name": "Angel"
+    },
+
+    "momangelnpc": {
+        "name": "Archangel"
+    },
+
+    "superiorangelnpc": {
+        "name": "Mentor"
+    },
+
+    "firstsonangelnpc": {
+        "name": "Angel"
+    },
+
+    "secondsonangelnpc": {
+        "name": "Superior Angel"
+    },
+
+    "mojojojonpc": {
+        "name": "Monky"
+    },
+
+    "ancientmanumentnpc": {
+        "name": "Ancient Monument"
+    },
+
+    "vendingmachine": {
+        "name": "Enchantment Vendor",
+        "role": "enchanter"
+    },
+
+    "redstoremannpc": {
+        "name": "Banker",
+        "role": "banker"
+    },
+
+    "purplestoremannpc": {
+        "name": "Kosmetics Vendor",
+        "store": "cosmetics"
+    },
+
+    "bluestoremannpc": {
+        "name": "Clerk",
+        "store": "startshop"
+    },
+
+    "royalguard": {
+        "name": "Royal Guard",
+        "text": ["There shall be no trespassing!"]
+    },
+
+    "royalguard2": {
+        "name": "Royal Guard",
+        "text": ["There shall be no trespassing!"]
+    },
+
+    "royalguard3": {
+        "name": "Royal Guard",
+        "text": ["There shall be no trespassing!"]
+    },
+
+    "picklenpc": {
+        "name": "Sea Cucumber"
+    },
+
+    "guildnpc": {
+        "name": "Guild Master"
+    },
+
+    "santaelfnpc": {
+        "name": "Santa's Helper",
+        "text": ["What do you want? I'm busy being overworked."]
+    },
+
+    "oldlady": {
+        "name": "Old Lady",
+        "text": ["Hello there dear adventurer!", "Make sure you're careful on your adventures."]
+    },
+
+    "oldlady2": {
+        "name": "Old Lady"
+    },
+
+    "ratnpc": {
+        "name": "Rat",
+        "text": ["Squeak!"]
+    }
+}

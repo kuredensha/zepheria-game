@@ -1,0 +1,7 @@
+{
+    "extends": "../../tsconfig.json",
+    "compilerOptions": {
+        "jsx": "react",
+        "types": ["@kaetram/common", "vite/client", "vite-plugin-pwa/client"]
+    }
+}
